@@ -209,3 +209,116 @@ Star the repo if you find it useful!
 Let's expand open workflow orchestration while recognizing the managed convenience that hosted Airflow, Prefect, Dagster, and Temporal clouds deliver.
 # Awesome-Web-Animation-Libraries
 
+# Top Web Animation Libraries Ecosystem
+
+**Curated List of SaaS Products & Open-Source GitHub Projects**  
+*Focused on Timeline Animation, Motion Design, Lottie/Rive Playback, UI Transitions & SVG Animation on the Web*  
+**Last updated: October 2026**
+
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Web Animation Libraries**. These tools power UI motion, scroll storytelling, SVG morphing, and designer-exported animations in the browser.
+
+**Examples** include GreenSock (GSAP), LottieFiles, Framer Motion / Motion, Anime.js, Jitter, SVGator, Mo.js, Rive, Animate.css, Bannerbear, and community CSS animation frameworks.
+
+**Open-source emphasis**: Runtime animation libraries are largely open. **Motion** (formerly Framer Motion), **Anime.js**, **Lottie**, **Animate.css**, **Popmotion**, and **Auto-Animate** are MIT/open options. This section is heavily expanded.
+
+Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+
+## Table of Contents
+- [SaaS/Hosted Platforms](#saas-hosted-platforms)
+- [Open-Source GitHub Projects](#open-source-github-projects)
+- [How to Contribute](#how-to-contribute)
+- [Disclaimer](#disclaimer)
+
+## SaaS/Hosted Platforms
+
+- **[LottieFiles, Rive (editor/cloud), SVGator, Jitter](https://lottiefiles.com/)**  
+  Design-to-web animation platforms—create, host, and export Lottie, Rive, or SVG animations for products and marketing sites.
+
+- **[Bannerbear, other programmatic image/video motion APIs](https://www.bannerbear.com/)**  
+  Automated creative and motion generation services for personalized banners and social assets.
+
+- **[GSAP (Webflow-backed distribution)](https://gsap.com/)**  
+  Industry-standard timeline animation library—free to use under its license terms; closed-source core with extensive plugin ecosystem.
+
+- **[Other commercial motion tools](https://rive.app/)**  
+  Additional editor SaaS and animation marketplaces.
+
+## Open-Source GitHub Projects
+
+### JavaScript / Framework Motion Libraries
+
+- **[Motion (formerly Framer Motion)](https://github.com/motiondivision/motion)**  
+  Leading open-source animation library for React, JavaScript, and Vue—springs, gestures, layout animations, and hybrid WAAPI engine (MIT).
+
+- **[Anime.js](https://github.com/juliangarnier/anime)**  
+  Lightweight open JavaScript animation library—CSS, SVG, DOM, and JavaScript object timelines with a small footprint.
+
+- **[Popmotion / Pose lineage](https://github.com/Popmotion/popmotion)**  
+  Open low-level animation primitives used by higher-level motion libraries.
+
+- **[React Spring](https://github.com/pmndrs/react-spring)**  
+  Open spring-physics animation library for React—natural motion and strong 3D/React Three Fiber integration.
+
+- **[Auto-Animate](https://github.com/formkit/auto-animate)**  
+  Open zero-config animation utility for smooth list and layout transitions with minimal code.
+
+- **[Motion One](https://github.com/motiondivision/motion)**  
+  Related open WAAPI-first animation toolkit in the Motion family.
+
+### Lottie, Vector & CSS
+
+- **[Lottie (lottie-web)](https://github.com/airbnb/lottie-web)**  
+  Open runtime for playing After Effects animations exported as JSON—standard for designer-to-dev motion on the web.
+
+- **[dotLottie / community players](https://github.com/dotlottie)**  
+  Open next-generation Lottie packaging and players—smaller files and extended features.
+
+- **[Animate.css](https://github.com/animate-css/animate.css)**  
+  Cross-browser open CSS animation library—ready-made utility classes for common effects.
+
+- **[Mo.js](https://github.com/mojs/mojs)**  
+  Open motion graphics library for the web—declarative shapes, timelines, and burst effects.
+
+- **[Rive runtimes (open players)](https://github.com/rive-app/rive-react)**  
+  Open runtime libraries for playing Rive files on web and other platforms (editor remains commercial).
+
+- **[GSAP community plugins / wrappers](https://github.com/search?q=gsap)**  
+  Community integrations; note GSAP core licensing differs from fully open MIT libraries.
+
+- **[CSS animation frameworks & utilities](https://github.com/search?q=css+animation+framework)**  
+  Community CSS-first animation kits and Tailwind motion plugins.
+
+### Additional Strong Open-Source Options
+
+- **React UI motion**: Motion (`motion/react`).
+- **Lightweight timelines**: Anime.js.
+- **Designer-exported motion**: Lottie / dotLottie players.
+- **CSS-only**: Animate.css or custom `@keyframes` + WAAPI.
+- **Physics springs**: React Spring.
+- **Composable stacks**: Design in LottieFiles/Rive → open player; or code timelines in Motion/Anime/GSAP.
+- Commercial editors still lead for visual motion design workflows and asset marketplaces.
+
+**Frameworks for building custom systems**:  
+**Motion** for React/Vue UI; **Anime.js** for general JS timelines; **lottie-web** for After Effects exports; **Animate.css** for quick CSS effects.  
+Prefer open runtimes when license predictability matters; check GSAP’s current license for commercial products that compete with its owner’s tools.  
+Fully open animation stacks are production-ready for most product UIs and marketing sites.
+
+## How to Contribute
+
+1. Fork the repo.
+2. Add/edit entries in `README.md` (follow existing format).
+3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
+4. Submit PR with a short explanation.
+
+Star the repo if you find it useful!
+
+## Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an endorsement.
+- Respect `prefers-reduced-motion` and provide non-animated fallbacks. Heavy animation can harm performance and accessibility. Verify license terms (especially GSAP) for your use case.
+- Open-source libraries offer transparent licensing and community maintenance. Design SaaS platforms shift authoring UX to the vendor. Neither replaces thoughtful motion design and performance budgets.
+
+---
+
+**Made for frontend engineers, motion designers, and teams who make interfaces feel alive.**  
+Let's expand open web animation while recognizing the design tooling that commercial motion platforms deliver.
