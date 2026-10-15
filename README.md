@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Web-Animation-Libraries/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Animation-Libraries?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Web-Animation-Libraries/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Animation-Libraries?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Animation-Libraries/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Web-Animation-Libraries?style=flat-square&color=blue" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Animation-Libraries/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Animation-Libraries/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License"/></a>
@@ -87,70 +87,70 @@ The following table summarizes notable commercial SaaS products in the web motio
 
 Below are the most popular open-source web animation repositories, ranked strictly in **descending order by GitHub stargazer count**. Every badge links directly to that repository's stargazers page:
 
-1. **[Animate.css](https://github.com/animate-css/animate.css)** [![GitHub stars](https://img.shields.io/github/stars/animate-css/animate.css?style=social&color=white)](https://github.com/animate-css/animate.css/stargazers)  
+1. **[Animate.css](https://github.com/animate-css/animate.css)** [![GitHub_Stars](https://img.shields.io/github/stars/animate-css/animate.css?style=social&color=white)](https://github.com/animate-css/animate.css/stargazers)  
    *🍿 Cross-browser library of ready-to-use CSS animations. Ideal for landing page entrances, attention seekers, and lightweight UI elements without writing JavaScript.*
 
-2. **[Anime.js](https://github.com/juliangarnier/anime)** [![GitHub stars](https://img.shields.io/github/stars/juliangarnier/anime?style=social&color=white)](https://github.com/juliangarnier/anime/stargazers)  
+2. **[Anime.js](https://github.com/juliangarnier/anime)** [![GitHub_Stars](https://img.shields.io/github/stars/juliangarnier/anime?style=social&color=white)](https://github.com/juliangarnier/anime/stargazers)  
    *⚡ High-performance, lightweight JavaScript animation engine. Powers smooth CSS transforms, SVG path morphing, DOM attributes, and JS objects with chained timelines.*
 
-3. **[Remotion](https://github.com/remotion-dev/remotion)** [![GitHub stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
+3. **[Remotion](https://github.com/remotion-dev/remotion)** [![GitHub_Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
    *🎥 Programmatic video creation framework for React. Write animations using pure React components and render them directly to MP4/WebM videos.*
 
-4. **[Motion (formerly Framer Motion)](https://github.com/motiondivision/motion)** [![GitHub stars](https://img.shields.io/github/stars/motiondivision/motion?style=social&color=white)](https://github.com/motiondivision/motion/stargazers)  
+4. **[Motion (formerly Framer Motion)](https://github.com/motiondivision/motion)** [![GitHub_Stars](https://img.shields.io/github/stars/motiondivision/motion?style=social&color=white)](https://github.com/motiondivision/motion/stargazers)  
    *🚀 Production-grade animation library for React and vanilla JavaScript. Features declarative syntax, spring physics, layout morphing, gestures, and hybrid WAAPI execution.*
 
-5. **[Lottie Web](https://github.com/airbnb/lottie-web)** [![GitHub stars](https://img.shields.io/github/stars/airbnb/lottie-web?style=social&color=white)](https://github.com/airbnb/lottie-web/stargazers)  
+5. **[Lottie Web](https://github.com/airbnb/lottie-web)** [![GitHub_Stars](https://img.shields.io/github/stars/airbnb/lottie-web?style=social&color=white)](https://github.com/airbnb/lottie-web/stargazers)  
    *🎨 The industry-standard runtime for rendering Adobe After Effects vector animations natively on the web via JSON exports (Bodymovin).*
 
-6. **[Particles.js](https://github.com/VincentGarreau/particles.js)** [![GitHub stars](https://img.shields.io/github/stars/VincentGarreau/particles.js?style=social&color=white)](https://github.com/VincentGarreau/particles.js/stargazers)  
+6. **[Particles.js](https://github.com/VincentGarreau/particles.js)** [![GitHub_Stars](https://img.shields.io/github/stars/VincentGarreau/particles.js?style=social&color=white)](https://github.com/VincentGarreau/particles.js/stargazers)  
    *✨ Lightweight JavaScript library for creating interactive, floating particle systems, constellation networks, and ambient background animations.*
 
-7. **[GSAP (GreenSock Animation Platform)](https://github.com/greensock/GSAP)** [![GitHub stars](https://img.shields.io/github/stars/greensock/GSAP?style=social&color=white)](https://github.com/greensock/GSAP/stargazers)  
+7. **[GSAP (GreenSock Animation Platform)](https://github.com/greensock/GSAP)** [![GitHub_Stars](https://img.shields.io/github/stars/greensock/GSAP?style=social&color=white)](https://github.com/greensock/GSAP/stargazers)  
    *🥇 Ultra-performant, professional-grade JavaScript timeline animation framework. Features legendary plugins including ScrollTrigger, MorphSVG, and SplitText.*
 
-8. **[React Spring](https://github.com/pmndrs/react-spring)** [![GitHub stars](https://img.shields.io/github/stars/pmndrs/react-spring?style=social&color=white)](https://github.com/pmndrs/react-spring/stargazers)  
+8. **[React Spring](https://github.com/pmndrs/react-spring)** [![GitHub_Stars](https://img.shields.io/github/stars/pmndrs/react-spring?style=social&color=white)](https://github.com/pmndrs/react-spring/stargazers)  
    *✌️ Modern spring-physics animation library for React applications. Bridges the gap between declarative components and organic physical movements.*
 
-9. **[AOS (Animate On Scroll)](https://github.com/michalsnik/aos)** [![GitHub stars](https://img.shields.io/github/stars/michalsnik/aos?style=social&color=white)](https://github.com/michalsnik/aos/stargazers)  
+9. **[AOS (Animate On Scroll)](https://github.com/michalsnik/aos)** [![GitHub_Stars](https://img.shields.io/github/stars/michalsnik/aos?style=social&color=white)](https://github.com/michalsnik/aos/stargazers)  
    *📜 CSS-driven animate-on-scroll library. Triggers smooth entry transitions as elements enter the browser viewport without heavy runtime dependencies.*
 
-10. **[Popmotion](https://github.com/Popmotion/popmotion)** [![GitHub stars](https://img.shields.io/github/stars/Popmotion/popmotion?style=social&color=white)](https://github.com/Popmotion/popmotion/stargazers)  
+10. **[Popmotion](https://github.com/Popmotion/popmotion)** [![GitHub_Stars](https://img.shields.io/github/stars/Popmotion/popmotion?style=social&color=white)](https://github.com/Popmotion/popmotion/stargazers)  
     *🎯 Low-level functional JavaScript animation library. Provides the underlying spring, keyframe, decay, and inertia physics primitives powering modern UI engines.*
 
-11. **[Mo.js](https://github.com/mojs/mojs)** [![GitHub stars](https://img.shields.io/github/stars/mojs/mojs?style=social&color=white)](https://github.com/mojs/mojs/stargazers)  
+11. **[Mo.js](https://github.com/mojs/mojs)** [![GitHub_Stars](https://img.shields.io/github/stars/mojs/mojs?style=social&color=white)](https://github.com/mojs/mojs/stargazers)  
     *🔮 Declarative motion graphics toolbelt for the web. Craft bursts, shape transforms, curved paths, and kinetic UI micro-effects effortlessly.*
 
-12. **[Typed.js](https://github.com/mattboldt/typed.js)** [![GitHub stars](https://img.shields.io/github/stars/mattboldt/typed.js?style=social&color=white)](https://github.com/mattboldt/typed.js/stargazers)  
+12. **[Typed.js](https://github.com/mattboldt/typed.js)** [![GitHub_Stars](https://img.shields.io/github/stars/mattboldt/typed.js?style=social&color=white)](https://github.com/mattboldt/typed.js/stargazers)  
     *⌨️ A JavaScript library that simulates real-time typing, backspacing, and character pausing animations with configurable cursor styles.*
 
-13. **[Vivus](https://github.com/maxwellito/vivus)** [![GitHub stars](https://img.shields.io/github/stars/maxwellito/vivus?style=social&color=white)](https://github.com/maxwellito/vivus/stargazers)  
+13. **[Vivus](https://github.com/maxwellito/vivus)** [![GitHub_Stars](https://img.shields.io/github/stars/maxwellito/vivus?style=social&color=white)](https://github.com/maxwellito/vivus/stargazers)  
     *✒️ Lightweight zero-dependency JavaScript class that dynamically animates SVGs, giving them the visual appearance of being drawn in real time.*
 
-14. **[Auto-Animate](https://github.com/formkit/auto-animate)** [![GitHub stars](https://img.shields.io/github/stars/formkit/auto-animate?style=social&color=white)](https://github.com/formkit/auto-animate/stargazers)  
+14. **[Auto-Animate](https://github.com/formkit/auto-animate)** [![GitHub_Stars](https://img.shields.io/github/stars/formkit/auto-animate?style=social&color=white)](https://github.com/formkit/auto-animate/stargazers)  
     *✨ A zero-config, single-line drop-in animation utility that automatically adds smooth transitions to list reordering, insertions, and DOM layout changes.*
 
-15. **[Barba.js](https://github.com/barbajs/barba)** [![GitHub stars](https://img.shields.io/github/stars/barbajs/barba?style=social&color=white)](https://github.com/barbajs/barba/stargazers)  
+15. **[Barba.js](https://github.com/barbajs/barba)** [![GitHub_Stars](https://img.shields.io/github/stars/barbajs/barba?style=social&color=white)](https://github.com/barbajs/barba/stargazers)  
     *🌊 Fluid and seamless page transition manager. Transforms standard multi-page websites into slick Single Page Application (SPA) experiences with custom exit/entry hooks.*
 
-16. **[Theatre.js](https://github.com/theatre-js/theatre)** [![GitHub stars](https://img.shields.io/github/stars/theatre-js/theatre?style=social&color=white)](https://github.com/theatre-js/theatre/stargazers)  
+16. **[Theatre.js](https://github.com/theatre-js/theatre)** [![GitHub_Stars](https://img.shields.io/github/stars/theatre-js/theatre?style=social&color=white)](https://github.com/theatre-js/theatre/stargazers)  
     *🎬 Visual motion design editor and animation framework for the web. Enables visual timeline choreographing for Three.js, React Three Fiber, SVG, and HTML DOM.*
 
-17. **[Tween.js](https://github.com/tweenjs/tween.js)** [![GitHub stars](https://img.shields.io/github/stars/tweenjs/tween.js?style=social&color=white)](https://github.com/tweenjs/tween.js/stargazers)  
+17. **[Tween.js](https://github.com/tweenjs/tween.js)** [![GitHub_Stars](https://img.shields.io/github/stars/tweenjs/tween.js?style=social&color=white)](https://github.com/tweenjs/tween.js/stargazers)  
     *⏱️ Simple, highly flexible JavaScript/TypeScript tweening engine. Optimized for numeric interpolations in Canvas 2D and Three.js 3D rendering loops.*
 
-18. **[Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll)** [![GitHub stars](https://img.shields.io/github/stars/locomotivemtl/locomotive-scroll?style=social&color=white)](https://github.com/locomotivemtl/locomotive-scroll/stargazers)  
+18. **[Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll)** [![GitHub_Stars](https://img.shields.io/github/stars/locomotivemtl/locomotive-scroll?style=social&color=white)](https://github.com/locomotivemtl/locomotive-scroll/stargazers)  
     *🛤️ Smooth scrolling library with built-in element viewport detection, parallax calculation, and customizable momentum physics.*
 
-19. **[ProgressBar.js](https://github.com/kimmobrunfeldt/progressbar.js)** [![GitHub stars](https://img.shields.io/github/stars/kimmobrunfeldt/progressbar.js?style=social&color=white)](https://github.com/kimmobrunfeldt/progressbar.js/stargazers)  
+19. **[ProgressBar.js](https://github.com/kimmobrunfeldt/progressbar.js)** [![GitHub_Stars](https://img.shields.io/github/stars/kimmobrunfeldt/progressbar.js?style=social&color=white)](https://github.com/kimmobrunfeldt/progressbar.js/stargazers)  
     *📊 Responsive, slick SVG progress bars featuring animated line, circle, and semi-circle paths with built-in easing and step callbacks.*
 
-20. **[ScrollTrigger](https://github.com/terwanerik/ScrollTrigger)** [![GitHub stars](https://img.shields.io/github/stars/terwanerik/ScrollTrigger?style=social&color=white)](https://github.com/terwanerik/ScrollTrigger/stargazers)  
+20. **[ScrollTrigger](https://github.com/terwanerik/ScrollTrigger)** [![GitHub_Stars](https://img.shields.io/github/stars/terwanerik/ScrollTrigger?style=social&color=white)](https://github.com/terwanerik/ScrollTrigger/stargazers)  
     *👁️ Open-source vanilla scroll trigger utility. Adds classes and executes animations based on element scroll positions using `requestAnimationFrame`.*
 
-21. **[Panzoom](https://github.com/timmywil/panzoom)** [![GitHub stars](https://img.shields.io/github/stars/timmywil/panzoom?style=social&color=white)](https://github.com/timmywil/panzoom/stargazers)  
+21. **[Panzoom](https://github.com/timmywil/panzoom)** [![GitHub_Stars](https://img.shields.io/github/stars/timmywil/panzoom?style=social&color=white)](https://github.com/timmywil/panzoom/stargazers)  
     *🔍 Extensible library for panning and zooming DOM elements using hardware-accelerated CSS transforms and touch gesture handling.*
 
-22. **[Rive React](https://github.com/rive-app/rive-react)** [![GitHub stars](https://img.shields.io/github/stars/rive-app/rive-react?style=social&color=white)](https://github.com/rive-app/rive-react/stargazers)  
+22. **[Rive React](https://github.com/rive-app/rive-react)** [![GitHub_Stars](https://img.shields.io/github/stars/rive-app/rive-react?style=social&color=white)](https://github.com/rive-app/rive-react/stargazers)  
     *🎮 Official React runtime wrapper for Rive. Embeds lightweight, interactive vector graphics driven by state machines and trigger inputs.*
 
 ---
@@ -208,7 +208,7 @@ Contributions are warmly welcomed! To suggest a new open-source library or SaaS 
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 📝 **Add your entry** under the appropriate section in `README.md` maintaining alphabetical or star-ranked order.
-3. 🔗 **Include clear metadata**: Tool name, active GitHub repo URL, star badge, and an informative 1–2 sentence description.
+3. 🔗 **Include clear metadata**: Tool name, active GitHub repo URL, Stars_Badge, and an informative 1–2 sentence description.
 4. 🚀 **Submit a Pull Request** with a concise explanation of why the tool is valuable to the web animation ecosystem.
 
 ---
